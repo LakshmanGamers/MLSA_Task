@@ -25,13 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Sri Siva Lakshmana Reddy Dwarampudi",
-  title: "Web Developer & Content Creator",
-  email: "",
+  title: "Web Developer & Android Developer",
+  email: "SRISIVALAKSHMANAREDD.DWARAMPUDI@studentambassadors.com",
   gitHub: "lakshmangamers",
   instagram: "hacker_lakshman",
-  linkedIn: "Sri Siva Lakshmana Reddy Dwarampudi",
+  linkedIn: "sri-siva-lakshmana-reddy-dwarampudi-984b5a200",
   medium: "",
-  twitter: "lakshman gamers official",
+  twitter: "lakshmangamers",
   youTube: "",
 };
 

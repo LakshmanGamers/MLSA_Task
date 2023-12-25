@@ -40,19 +40,19 @@ const projectList = [
     title: "Python Theme Support GUI Calculator",
     description:
       "GUI Calculator with dark and light theme support.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://github.com/LakshmanGamers/tkinter_calculator",
   },
   {
-    title: "My Resume Site",
+    title: "My Online Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Check My Resume Here.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
     title: "Full Stack E-commerce Website",
     description:
       "Java based Full Stack Ecommerce Web App",
-    url: "https://github.com/LakshmanGamers/DailyNews",
+    url: "https://github.com/LakshmanGamers/ShopOnline",
   },
 ];
 
